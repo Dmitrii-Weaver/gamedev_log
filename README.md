@@ -11,3 +11,8 @@ Going to polish it and then move to Unity.
 02.04.2025 
 
 Additional testing showed space for improvements in balance and QoL, spent the day working on that
+
+03.04.2025
+
+Got ideas for additional content and new mechanics for enemies and character options. Started by drawing all the necessary sprites.
+The animation work took sometime
