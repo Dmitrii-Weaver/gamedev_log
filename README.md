@@ -16,3 +16,7 @@ Additional testing showed space for improvements in balance and QoL, spent the d
 
 Got ideas for additional content and new mechanics for enemies and character options. Started by drawing all the necessary sprites.
 The animation work took sometime
+
+04.04.2025
+
+Sprite work mostly done, added new mechanics, tested them, adjusted, tested again, gathered some opinion from testers
