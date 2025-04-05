@@ -20,3 +20,7 @@ The animation work took sometime
 04.04.2025
 
 Sprite work mostly done, added new mechanics, tested them, adjusted, tested again, gathered some opinion from testers
+
+05.04.2025
+
+QoL improvements, then sent the new version for playtesting. In the meantime studied Unity tutorials and did some practice.
