@@ -24,3 +24,7 @@ Sprite work mostly done, added new mechanics, tested them, adjusted, tested agai
 05.04.2025
 
 QoL improvements, then sent the new version for playtesting. In the meantime studied Unity tutorials and did some practice.
+
+06.04.2025
+
+More spritework and content expansions added. The game is nearing a state where I can release it as an actual project rather than a simple exercise.
