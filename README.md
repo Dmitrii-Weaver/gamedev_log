@@ -28,3 +28,8 @@ QoL improvements, then sent the new version for playtesting. In the meantime stu
 06.04.2025
 
 More spritework and content expansions added. The game is nearing a state where I can release it as an actual project rather than a simple exercise.
+
+07.04.2025
+
+More spritework, more QoL, more blackbox testing to cover as many potential use cases as possible. Also more studying.
+Switching from Game Maker to Unity is a difficulty spike.
