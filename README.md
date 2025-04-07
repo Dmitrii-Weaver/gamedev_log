@@ -33,3 +33,7 @@ More spritework and content expansions added. The game is nearing a state where 
 
 More spritework, more QoL, more blackbox testing to cover as many potential use cases as possible. Also more studying.
 Switching from Game Maker to Unity is a difficulty spike.
+
+08.04.2025
+
+Studying, working on extra features that were suggested
