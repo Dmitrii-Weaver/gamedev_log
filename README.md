@@ -37,3 +37,7 @@ Switching from Game Maker to Unity is a difficulty spike.
 08.04.2025
 
 Studying, working on extra features that were suggested
+
+09.04.2025
+
+working on sprites
