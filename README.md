@@ -45,3 +45,7 @@ working on sprites
 10.04.2025
 
 working on new feature, adding sprites
+
+11.04.2025
+
+optimization and QoL changes
