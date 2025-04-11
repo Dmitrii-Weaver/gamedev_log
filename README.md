@@ -49,3 +49,7 @@ working on new feature, adding sprites
 11.04.2025
 
 optimization and QoL changes
+
+12.04.2025
+
+final checks, testing, final adjustments
