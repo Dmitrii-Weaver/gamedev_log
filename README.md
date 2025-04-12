@@ -53,3 +53,7 @@ optimization and QoL changes
 12.04.2025
 
 final checks, testing, final adjustments
+
+13.04.2025 
+
+"release", small fixes of bugs that occur on different hardware
