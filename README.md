@@ -57,3 +57,7 @@ final checks, testing, final adjustments
 13.04.2025 
 
 "release", small fixes of bugs that occur on different hardware
+
+14.04.2025 
+
+analyzed feedback. Back to react work
