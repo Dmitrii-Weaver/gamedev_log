@@ -61,3 +61,7 @@ final checks, testing, final adjustments
 14.04.2025 
 
 analyzed feedback. Back to react work
+
+15.04.2025
+
+studying, gathering info on potential official release and forms of game publishment as an indie
