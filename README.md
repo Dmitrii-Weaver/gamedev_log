@@ -65,3 +65,7 @@ analyzed feedback. Back to react work
 15.04.2025
 
 studying, gathering info on potential official release and forms of game publishment as an indie
+
+16.04.2025 
+
+study work
