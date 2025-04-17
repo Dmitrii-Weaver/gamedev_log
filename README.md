@@ -69,3 +69,7 @@ studying, gathering info on potential official release and forms of game publish
 16.04.2025 
 
 study work
+
+17.04.2025 
+
+Focusing on test projects for Unity
