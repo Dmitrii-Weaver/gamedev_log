@@ -72,4 +72,8 @@ study work
 
 17.04.2025 
 
-Focusing on test projects for Unity
+Focusing on test projects for Unity.
+
+18.04.2025
+
+Learning about game objects and sprites for Unity
