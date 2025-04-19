@@ -77,3 +77,7 @@ Focusing on test projects for Unity.
 18.04.2025
 
 Learning about game objects and sprites for Unity
+
+19.04.2025
+
+Scripts and C# study
