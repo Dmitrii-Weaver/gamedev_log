@@ -81,3 +81,7 @@ Learning about game objects and sprites for Unity
 19.04.2025
 
 Scripts and C# study
+
+20.04.2025
+
+ C# study
