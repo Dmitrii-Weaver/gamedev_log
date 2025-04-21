@@ -84,4 +84,8 @@ Scripts and C# study
 
 20.04.2025
 
- C# study
+C# study
+
+21.04.2025
+
+C# study + learning the connection system in Unity
