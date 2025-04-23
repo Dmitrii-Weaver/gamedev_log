@@ -93,3 +93,7 @@ C# study + learning the connection system in Unity
 22.04.2025
 
 More project work, learning physics, vector, camera.
+
+23.04.2025
+
+More project work, writing scripts for object movement and generation
