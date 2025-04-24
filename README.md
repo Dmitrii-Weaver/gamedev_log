@@ -97,3 +97,7 @@ More project work, learning physics, vector, camera.
 23.04.2025
 
 More project work, writing scripts for object movement and generation
+
+24.04.2025
+
+Additional study, project optimization
