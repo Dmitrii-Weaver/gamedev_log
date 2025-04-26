@@ -101,3 +101,11 @@ More project work, writing scripts for object movement and generation
 24.04.2025
 
 Additional study, project optimization
+
+25.04.2025
+
+UI work
+
+26.04.2025
+
+Sound work
