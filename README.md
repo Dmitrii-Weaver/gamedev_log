@@ -113,3 +113,7 @@ Sound work
 27.04.2025
 
 Spritework prectice
+
+28.04.2025
+
+Layers study, working with particle generator
