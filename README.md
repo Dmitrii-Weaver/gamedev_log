@@ -137,3 +137,7 @@ Spritework for extra content
 3.05.2025
 
 Spritework and feature integration + bugfixes
+
+4.05.2025
+
+New feature testing + brainstorming new ideas
