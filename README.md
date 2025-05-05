@@ -141,3 +141,7 @@ Spritework and feature integration + bugfixes
 4.05.2025
 
 New feature testing + brainstorming new ideas
+
+5.05.2025
+
+New feature design + QoL improvements
